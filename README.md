@@ -1,0 +1,2 @@
+- This repository contains code to create a recommendation system using IBM Watson Data.
+- Simply run the notebook or view the results directly in the HTML. 
